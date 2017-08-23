@@ -1,0 +1,6 @@
+// Custom project config.
+IPHONEOS_DEPLOYMENT_TARGET = 8.3
+USE_HEADERMAP = YES
+//HEADER_SEARCH_PATHS = $(inherited) "${SRCROOT}/../src" "${SRCROOT}/../test"
+CLANG_ENABLE_MODULES = NO
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${SRCROOT}/../../../../../Pods/GoogleMaps"

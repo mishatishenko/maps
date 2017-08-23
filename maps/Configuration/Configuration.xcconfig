@@ -1,0 +1,10 @@
+//
+//  Configuration.xcconfig
+//  maps
+//
+//  Created by Www Www on 8/18/17.
+//  Copyright © 2017 Michael Tishchenko. All rights reserved.
+//
+
+DISABLED_WARNINGS = -Wall -Wno-documentation
+OTHER_CFLAGS = $DISABLED_WARNINGS
